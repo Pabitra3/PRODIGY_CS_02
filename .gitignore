@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Package manager files
+pip-log.txt
+pip-wheel-metadata/
+dist/
+build/
+*.egg-info/
+
+# Temporary files
+*.bak
+*.swp
+*~
+*.tmp
+
+# Image files (user-uploaded or generated)
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tiff
+*.gif
+*.webp
+
+# Log files
+*.log
+
+# Other
+d:\Desktop\New folder\screenshot01.png
