@@ -44,4 +44,5 @@ build/
 *.log
 
 # Other
-d:\Desktop\New folder\screenshot01.png
+*.out
+*.err

@@ -2,7 +2,6 @@
 
 A Python-based GUI application for encrypting and decrypting images using pixel manipulation (XOR encryption and pixel scrambling). The tool also provides RGB histogram visualization to analyze the color distribution of original, encrypted, and decrypted images.
 
-![Screenshot]d:\Desktop\New folder\screenshot01.png 
 
 ## Features
 - **Image Upload**: Supports multiple image formats (JPEG, PNG, BMP, TIFF, GIF, WebP).
